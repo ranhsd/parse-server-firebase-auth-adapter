@@ -3,6 +3,7 @@ import * as admin from "firebase-admin";
 export class FirebaseAuth {
 
     constructor(options) {
+        // check options here
     }
 
     validateAuthData(authData,options) {
